@@ -1,0 +1,75 @@
+{
+  "intents": [
+    {
+      "tag": "Common Cold",
+      "patterns": [
+        "runny nose",
+        "sore throat",
+        "cough",
+        "sneezing",
+        "mild fever"
+      ],
+      "responses": [
+        "You might have the Common Cold. Please rest and stay hydrated.",
+        "These symptoms indicate a Common Cold. Consider seeing a doctor if symptoms worsen."
+      ]
+    },
+    {
+      "tag": "Flu",
+      "patterns": [
+        "high fever",
+        "body chills",
+        "muscle aches",
+        "fatigue",
+        "headache",
+        "dry cough"
+      ],
+      "responses": [
+        "It seems you may have the Flu. It's recommended to consult with a healthcare professional.",
+        "These symptoms are typical of Flu. Rest and medical care are advised."
+      ]
+    },
+    {
+      "tag": "Migraine",
+      "patterns": [
+        "severe headache",
+        "nausea",
+        "sensitivity to light",
+        "blurred vision",
+        "throbbing pain"
+      ],
+      "responses": [
+        "Your symptoms suggest a Migraine. Please avoid bright lights and rest in a quiet room.",
+        "These signs point to a Migraine. Medication and consultation with a doctor may help."
+      ]
+    },
+    {
+      "tag": "Diabetes",
+      "patterns": [
+        "frequent urination",
+        "excessive thirst",
+        "unexplained weight loss",
+        "fatigue",
+        "blurred vision"
+      ],
+      "responses": [
+        "These symptoms may indicate Diabetes. Please visit a healthcare provider for testing.",
+        "You may have Diabetes. Prompt medical advice is recommended."
+      ]
+    },
+    {
+      "tag": "Asthma",
+      "patterns": [
+        "shortness of breath",
+        "wheezing",
+        "chest tightness",
+        "coughing at night",
+        "difficulty breathing"
+      ],
+      "responses": [
+        "Your symptoms suggest Asthma. Please use your prescribed inhaler and avoid triggers.",
+        "This may be Asthma. Immediate medical care might be necessary if breathing worsens."
+      ]
+    }
+  ]
+}
