@@ -7,7 +7,7 @@ A smart AI-powered Health Care Chatbot that assists users by analyzing symptoms 
 The Health Care Chatbot is designed to:
 
 Interact with users in natural language
-
+    
 Understand health-related queries
 
 Predict possible diseases based on symptoms
