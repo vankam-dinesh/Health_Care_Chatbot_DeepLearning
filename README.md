@@ -8,7 +8,7 @@ The Health Care Chatbot is designed to:
 
 Interact with users in natural language
     
-Understand health-related queries
+Understand health-related queries    
    
 Predict possible diseases based on symptoms
 
