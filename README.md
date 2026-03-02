@@ -10,7 +10,7 @@ Interact with users in natural language
           
 Understand health-related queries                                             
    
-Predict possible diseases based on symptoms
+Predict possible diseases based on symptoms                                                                            
 
 Provide precautionary advice and health information
 
