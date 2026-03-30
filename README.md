@@ -2,7 +2,7 @@ Health Care Chatbot using Deep Learning
 
 A smart AI-powered Health Care Chatbot that assists users by analyzing symptoms and providing possible health-related guidance using Deep Learning and NLP techniques.
 
-📌 Project Overview                                                                                                                                                                                                                                                                                                    
+📌 Project Overview                                                                                                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                                                                      
 The Health Care Chatbot is designed to:                                                                                                   
                                                                                                                                                                                                                                                                                                                          
